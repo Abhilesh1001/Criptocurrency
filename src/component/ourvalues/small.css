@@ -1,0 +1,10 @@
+.smallCircle{
+    position: relative;
+    width: 44px;
+    height: 45px;
+    background-color: green;
+    border-radius: 53%;
+    /* transform: rotate(60deg); */
+    top: 90px;
+    left: 10px;
+}

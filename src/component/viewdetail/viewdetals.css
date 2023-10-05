@@ -1,0 +1,99 @@
+.firstBox{
+    width: 289px;
+    height: 363px;
+    border: 18px solid green;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.circle{
+    position: relative;
+    width: 40px;
+    height: 40px;
+    border-radius: 86%;
+    background-color: green;
+    top: -18px;
+    left: -16px;
+}
+.circle2{
+    position: relative;
+    width: 41px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: green;
+    top: -55px;
+    left: 222px;
+}
+.circle3{
+    position: relative;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: green;
+    top: 220px;
+    left: 227px;
+}
+
+.circle4{
+    position: relative;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: green;
+    top: 180px;
+    left: -14px;
+}
+.star{
+    position: relative;
+    top: -174px;
+    left: -14px;
+}
+.star1{
+    position: relative;
+    top: -201px;
+    left: 240px;
+}
+.star2{
+    position: relative;
+    top: 95px;
+    left: 239px;
+}
+.star3{
+    position: relative;
+    top: 64px;
+    left: -16px;
+}
+
+.viewdetails{
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 253px;
+    height: 54px;
+    top: 273px;
+    bottom: 12px;
+    background-color: white;
+    
+}
+
+.lineDetails{
+    background-color: green;
+    width: 2px;
+    height: 323px;
+    transform: rotate(35deg);
+    position: relative;
+    top: -287px;
+    left: 142px;
+    
+}
+.lineDetails1{
+    background-color: green;
+    width: 2px;
+    height: 346px;
+    transform: rotate(140deg);
+    position: relative;
+    top: -621px;
+    left: 109px;
+}
+

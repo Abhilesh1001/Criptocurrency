@@ -1,0 +1,16 @@
+.BoxItem{
+    background-color: rgb(54, 204, 54);
+    border-radius: 4px;
+    position: relative;
+    border: 2px solid white;
+    font-family: 'Courier New', 'Times New Roman', Times, serif;
+}
+
+.welc{
+    font-size: 188px;
+    color: white;
+    font-weight: 1000;
+}
+
+
+

@@ -1,0 +1,9 @@
+.circleour{
+    width: 200px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    border-radius: 50%;
+    align-items: center;
+    background-color: green;
+}
