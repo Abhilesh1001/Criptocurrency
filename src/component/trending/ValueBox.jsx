@@ -136,7 +136,7 @@ const ValueBox = () => {
                     <div className="col-sm-3"><ViewDetails /></div>
                 </div>
             </div>
-            {/* primary tokenStarts Here  */}
+            {/* primary tokenStarts Here..............  */}
             <div style={{ backgroundColor: 'green', marginTop: '100px', marginBottom: "100px", width: '100%', height: '460px' }}>
                 <Primary />
             </div>

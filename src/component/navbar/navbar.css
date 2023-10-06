@@ -2,6 +2,7 @@
     margin-top: 10px;
     padding: 15px;
     display: flex;
+    flex-wrap: wrap;
     background-color: rgb(54, 204, 54);
     border-radius: 20px;
     
@@ -9,7 +10,9 @@
 ul{
     display: flex;
     align-items: center;
-    color: white
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
 }
 li{
   list-style-type: none;
@@ -24,7 +27,7 @@ li{
 .buttonhan{
     position: relative;
     top: 0px;
-    left: 293px;
+    left: 114px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -65,7 +68,7 @@ li:hover{
     background-color: green;
     position: relative;
     top: 9px;
-    left: 190px;
+    left: 109px;
     cursor: pointer;
 }
 .folder1{
@@ -78,13 +81,13 @@ li:hover{
     background-color: green;
     position: relative;
     top: 2px;
-    left: 190px;
+    left: 109px;
     cursor: pointer;
 }
 .arrowmove{
     position: relative;
     top: 19px;
-    left: 264px;
+    left: 131px;
     font-size: 20px;
     color: white;
     cursor: pointer;
