@@ -22,11 +22,12 @@ const Defi = () => {
                 <div className='welc' style={{marginTop:'-70px'}}>Defi Hub!</div>
             </div>
             <div>
-                <div className='row'>
+
+                <div className='row' style={{display:'flex',flexWrap:'wrap'}}>
                     <div className="col-sm-1">
                     </div>
                     <div className="col-sm-2">
-                    <BoxItem boxwidth='200px' boxheight='200px' pboxwidth='-16px' pboxheight='8px' />
+                    <BoxItem boxwidth='14vw' boxheight='14vw' pboxwidth='-16px' pboxheight='8px' />
                     </div>
                     <div className="col-sm-1">
                     </div>
@@ -42,6 +43,7 @@ const Defi = () => {
                      </div>
                 </div>
                     </div>
+
             </div>
             {/* background Color change here  */}
                 <div style={{backgroundColor:'rgb(54, 204, 54)', borderRadius:'100px', width:'100%', height:'2850px', marginTop:'120px'}}>

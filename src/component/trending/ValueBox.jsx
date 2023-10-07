@@ -45,37 +45,37 @@ const ValueBox = () => {
                         <div style={{ marginLeft: '20px', color: 'white' }}>$0.3911</div>
                     </div>
                     <div style={{ marginLeft: '20px', color: 'white', width: '60px', height: '40px', border: '2px solid green', textAlign: 'center', borderRadius: '8px', padding: '5px' }}>
-                        1.64%
+                        5.64%
                     </div>
                 </div>
                 <div className="col-sm-3" style={{ display: 'flex', padding: '20px' }}>
                     <div className='boxitem'></div>
                     <div >
-                        <div style={{ marginLeft: '20px', color: 'white', fontWeight: 'bold' }}>FTM</div>
+                        <div style={{ marginLeft: '20px', color: 'white', fontWeight: 'bold' }}>BOS</div>
                         <div style={{ marginLeft: '20px', color: 'white' }}>$0.3911</div>
                     </div>
                     <div style={{ marginLeft: '20px', color: 'white', width: '60px', height: '40px', border: '2px solid green', textAlign: 'center', borderRadius: '8px', padding: '5px' }}>
-                        1.64%
+                        +2.64%
                     </div>
                 </div>
                 <div className="col-sm-3" style={{ display: 'flex', padding: '20px' }}>
                     <div className='boxitem'></div>
                     <div >
-                        <div style={{ marginLeft: '20px', color: 'white', fontWeight: 'bold' }}>FTM</div>
+                        <div style={{ marginLeft: '20px', color: 'white', fontWeight: 'bold' }}>BCN</div>
                         <div style={{ marginLeft: '20px', color: 'white' }}>$0.3911</div>
                     </div>
                     <div style={{ marginLeft: '20px', color: 'white', width: '60px', height: '40px', border: '2px solid green', textAlign: 'center', borderRadius: '8px', padding: '5px' }}>
-                        1.64%
+                        8.14%
                     </div>
                 </div>
                 <div className="col-sm-3" style={{ display: 'flex', padding: '20px' }}>
                     <div className='boxitem'></div>
                     <div >
-                        <div style={{ marginLeft: '20px', color: 'white', fontWeight: 'bold' }}>FTM</div>
+                        <div style={{ marginLeft: '20px', color: 'white', fontWeight: 'bold' }}>RCN</div>
                         <div style={{ marginLeft: '20px', color: 'white' }}>$0.3911</div>
                     </div>
                     <div style={{ marginLeft: '20px', color: 'white', width: '60px', height: '40px', border: '2px solid green', textAlign: 'center', borderRadius: '8px', padding: '5px' }}>
-                        1.64%
+                        3.85%
                     </div>
                 </div>
             </div>
@@ -88,7 +88,7 @@ const ValueBox = () => {
                 <div className="col-sm-3" style={{ display: 'flex', padding: '20px' }}>
                     <div className='boxitem'></div>
                     <div >
-                        <div style={{ marginLeft: '20px', color: 'white', fontWeight: 'bold' }}>FTM</div>
+                        <div style={{ marginLeft: '20px', color: 'white', fontWeight: 'bold' }}>MET</div>
                         <div style={{ marginLeft: '20px', color: 'white' }}>$0.3911</div>
                     </div>
                     <div style={{ marginLeft: '20px', color: 'white', width: '60px', height: '40px', border: '2px solid green', textAlign: 'center', borderRadius: '8px', padding: '5px' }}>
@@ -98,7 +98,7 @@ const ValueBox = () => {
                 <div className="col-sm-3" style={{ display: 'flex', padding: '20px' }}>
                     <div className='boxitem'></div>
                     <div >
-                        <div style={{ marginLeft: '20px', color: 'white', fontWeight: 'bold' }}>FTM</div>
+                        <div style={{ marginLeft: '20px', color: 'white', fontWeight: 'bold' }}>BNB</div>
                         <div style={{ marginLeft: '20px', color: 'white' }}>$0.3911</div>
                     </div>
                     <div style={{ marginLeft: '20px', color: 'white', width: '60px', height: '40px', border: '2px solid green', textAlign: 'center', borderRadius: '8px', padding: '5px' }}>
@@ -108,21 +108,21 @@ const ValueBox = () => {
                 <div className="col-sm-3" style={{ display: 'flex', padding: '20px' }}>
                     <div className='boxitem'></div>
                     <div >
-                        <div style={{ marginLeft: '20px', color: 'white', fontWeight: 'bold' }}>FTM</div>
+                        <div style={{ marginLeft: '20px', color: 'white', fontWeight: 'bold' }}>SHIB</div>
                         <div style={{ marginLeft: '20px', color: 'white' }}>$0.3911</div>
                     </div>
                     <div style={{ marginLeft: '20px', color: 'white', width: '60px', height: '40px', border: '2px solid green', textAlign: 'center', borderRadius: '8px', padding: '5px' }}>
-                        1.64%
+                        9.04%
                     </div>
                 </div>
                 <div className="col-sm-3" style={{ display: 'flex', padding: '20px' }}>
                     <div className='boxitem'></div>
                     <div >
-                        <div style={{ marginLeft: '20px', color: 'white', fontWeight: 'bold' }}>FTM</div>
+                        <div style={{ marginLeft: '20px', color: 'white', fontWeight: 'bold' }}>ECA</div>
                         <div style={{ marginLeft: '20px', color: 'white' }}>$0.3911</div>
                     </div>
                     <div style={{ marginLeft: '20px', color: 'white', width: '60px', height: '40px', border: '2px solid green', textAlign: 'center', borderRadius: '8px', padding: '5px' }}>
-                        1.64%
+                        9.64%
                     </div>
                 </div>
             </div>

@@ -14,13 +14,13 @@ const Lunach = () => {
                 <Lunchco  time='4:00' datetime='25 JAN' />
         </div>
         <div className="col-sm-4 mx-4 sizecalender">
-        <Lunchco  time='4:00' datetime='25 JAN' />
+        <Lunchco  time='3:00' datetime='26 JAN' />
         </div>
         <div className="col-sm-4 mx-4 sizecalender">
-        <Lunchco  time='4:00' datetime='25 JAN' />
+        <Lunchco  time='5:00' datetime='27 JAN' />
         </div>
         <div className="col-sm-4 mx-4 sizecalender">
-        <Lunchco  time='4:00' datetime='25 JAN' />
+        <Lunchco  time='4:00' datetime='28 JAN' />
         </div>
     </div>
     <div className='newsform'>
